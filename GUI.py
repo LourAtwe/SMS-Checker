@@ -1,9 +1,8 @@
 import tkinter
-import sys
 from tkinter import *
 from tkinter import Label, PhotoImage
 import joblib
-import os
+
 
 lour = tkinter.Tk()
 lour.geometry("900x650")
